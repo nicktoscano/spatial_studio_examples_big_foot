@@ -1,4 +1,4 @@
-# spatial_studio_examples
+# spatial_studio_examples_big_foot
 
 ## Projects
 ### Big_Foot_Locations_Inside_National_Forests 
