@@ -36,3 +36,16 @@ Description: Demonstrates summarize by region as a thematic map.
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
   * Analytics:
     * bfro_reports_geom_summarize: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/58cc651e8a00ffbab18e82a3ab443406
+
+### Thematic_Map_of_Bigfoot_Sightings
+Description: Demonstrates how to build a thematic map.
+  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=cb5bf4a9951dbda6e2dd6140e0b88066
+  * Data: 
+    * BFRO Reports 
+     * Source: https://www.bfro.net/gdb/
+     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+    * CB_2018_US_STATE_500K 
+     * Source: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
+  * Analytics:
+    * bfro_reports_geocoded_summarize_count: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/585e885d428b94f1a6f3e9fd41920d33
