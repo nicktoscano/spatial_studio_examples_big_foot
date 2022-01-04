@@ -21,8 +21,8 @@ Description: Demonstrates Return Shapes that Are Inside Another
      * Source: https://www.bfro.net/gdb/
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/a9030ad05b8c9f62dc744187b9ea8b26
   * Analytics:
-   * bfro_reports_geocoded_class_b: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/de1ac4681626d1fcd231325a1176b239
-   * bfro_reports_geocoded_filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
+    * bfro_reports_geocoded_class_b: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/de1ac4681626d1fcd231325a1176b239
+    * bfro_reports_geocoded_filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
 
 ### Which_State_Has_More_Bigfoot_Sightings
 Description: Demonstrates summarize by region as a thematic map.
