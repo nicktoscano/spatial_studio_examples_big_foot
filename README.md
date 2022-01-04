@@ -59,15 +59,11 @@ Description: Demonstrates how to cluster data using Spatial Studio.
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
 
 ### Bigfoot_Reports_by_Classification
-Description: Demonstrates how to build a thematic map.
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=cb5bf4a9951dbda6e2dd6140e0b88066
+  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=0408448a99a3c90f5a5ba487eb1bd6f0
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
-    * CB_2018_US_STATE_500K 
-     * Source: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
   * Analytics:
-    * bfro_reports_geocoded_summarize_count: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/585e885d428b94f1a6f3e9fd41920d33
+    * bfro_reports_geocoded filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
 
