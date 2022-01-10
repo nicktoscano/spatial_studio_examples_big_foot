@@ -105,3 +105,15 @@ Description: None
     * Nnps_land_resources_filteredD: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/656754d36b2a7f4ff31af0abc103cb7b
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/cuyahoga.png" width="300" height="200">
+
+<hr style="width:100%", size="6", color=white> 
+
+### Where are the greatest density of sightings?
+Description: None
+  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=71fe5266b136f0cfc640a8ab63ccf0e3
+  * Data: 
+    * BFRO Reports 
+     * Source: https://www.bfro.net/gdb/
+     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+ 
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/density.png" width="300" height="200">
