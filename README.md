@@ -26,7 +26,7 @@ Description: Demonstrates Return Shapes that Are Inside Another
     * bfro_reports_geocoded_class_b: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/de1ac4681626d1fcd231325a1176b239
     * bfro_reports_geocoded_filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/clasification.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/classification.png" width="300" height="200">
 
 ### Which_State_Has_More_Bigfoot_Sightings
 Description: Demonstrates summarize by region as a thematic map.
