@@ -117,3 +117,16 @@ Description: None
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
  
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/density.png" width="300" height="200">
+
+<hr style="width:100%", size="6", color=white> 
+
+### Report Time Sldier
+Description: None
+  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=9bb5882ac6ae45790fcddba83517d090
+  * Data: 
+    * BFRO Reports 
+     * Source: https://www.bfro.net/gdb/
+     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+ 
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/timeslider.png" width="300" height="200">
+
