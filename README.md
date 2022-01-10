@@ -17,14 +17,13 @@ Description: Demonstrates Return Shapes that Are Inside Another
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/inside_national.png" width="300" height="200">
 
 ### Bigfoot_Reports_by_Classification
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=12297d5494ab529e8e801de9bf2e7d44
+  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=0408448a99a3c90f5a5ba487eb1bd6f0
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/a9030ad05b8c9f62dc744187b9ea8b26
+     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
   * Analytics:
-    * bfro_reports_geocoded_class_b: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/de1ac4681626d1fcd231325a1176b239
-    * bfro_reports_geocoded_filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
+    * bfro_reports_geocoded filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/classification.png" width="300" height="200">
 
@@ -40,6 +39,8 @@ Description: Demonstrates summarize by region as a thematic map.
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
   * Analytics:
     * bfro_reports_geom_summarize: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/58cc651e8a00ffbab18e82a3ab443406
+
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/thematic.png" width="300" height="200">
 
 ### Thematic_Map_of_Bigfoot_Sightings
 Description: Demonstrates how to build a thematic map.
@@ -63,14 +64,5 @@ Description: Demonstrates how to cluster data using Spatial Studio.
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/clustering_img.png" width="300" height="200">
-
-### Bigfoot_Reports_by_Classification
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=0408448a99a3c90f5a5ba487eb1bd6f0
-  * Data: 
-    * BFRO Reports 
-     * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
-  * Analytics:
-    * bfro_reports_geocoded filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
 
 
