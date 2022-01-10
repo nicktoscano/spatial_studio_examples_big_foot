@@ -149,5 +149,5 @@ Description: None
     * US_UFO_ENCOUNTERS
      * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
  
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/uso_thematic.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/ufo_thematic.png" width="300" height="200">
 
