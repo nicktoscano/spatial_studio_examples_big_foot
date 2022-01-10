@@ -3,6 +3,9 @@
 * To utilize this repo, you will need access to Oracle Spatial Studio.  https://www.oracle.com/database/spatial/
 * You can then import the project zipfile via the Import Project button on the Project managment page.
 
+See graphic:
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/import_screen" width="300" height="200">
+
 ## Projects
 ### Big_Foot_Locations_Inside_National_Forests 
 Description: Demonstrates Return Shapes that Are Inside Another 
@@ -131,5 +134,5 @@ Description: None
      * Source: https://www.bfro.net/gdb/
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
  
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/import_screen.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/time_slider" width="300" height="200">
 
