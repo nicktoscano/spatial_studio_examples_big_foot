@@ -1,5 +1,8 @@
 # spatial_studio_examples_big_foot
 
+* To utilize this repo, you will need access to Oracle Spatial Studio.  https://www.oracle.com/database/spatial/
+* You can then import the project zipfile via the Import Project button on the Project managment page.
+
 ## Projects
 ### Big_Foot_Locations_Inside_National_Forests 
 Description: Demonstrates Return Shapes that Are Inside Another 
