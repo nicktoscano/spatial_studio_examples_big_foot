@@ -75,4 +75,16 @@ Description: Demonstrates how to cluster data using Spatial Studio.
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/clustering_img.png" width="300" height="200">
 
+<hr style="width:100%", size="6", color=white> 
 
+### Bigfoot_Reporting_within_Proximity_to_UFO_Sightings
+Description: Demonstrates proximity analysis.
+  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=2cf12e225b4cf38a36fae7f32884f265
+  * Data: 
+    * BFRO Reports 
+     * Source: https://www.bfro.net/gdb/
+     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+    * US UFO Encounters 
+     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
+
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/proximity.png" width="300" height="200">
