@@ -29,6 +29,8 @@ Description: Demonstrates Return Shapes that Are Inside Another
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/classification.png" width="300" height="200">
 
+<hr style="width:100%", size="6", color=white> 
+
 ### Which_State_Has_More_Bigfoot_Sightings
 Description: Demonstrates summarize by region as a thematic map.
   * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=12297d5494ab529e8e801de9bf2e7d44
@@ -44,6 +46,8 @@ Description: Demonstrates summarize by region as a thematic map.
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/thematic_rank.png" width="300" height="200">
 
+<hr style="width:100%", size="6", color=white> 
+
 ### Thematic_Map_of_Bigfoot_Sightings
 Description: Demonstrates how to build a thematic map.
   * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=cb5bf4a9951dbda6e2dd6140e0b88066
@@ -58,6 +62,8 @@ Description: Demonstrates how to build a thematic map.
     * bfro_reports_geocoded_summarize_count: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/585e885d428b94f1a6f3e9fd41920d33
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/thematic.png" width="300" height="200">
+
+<hr style="width:100%", size="6", color=white> 
 
 ### Clustering_Bigfoot_Reports
 Description: Demonstrates how to cluster data using Spatial Studio.
