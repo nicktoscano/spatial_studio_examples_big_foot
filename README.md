@@ -40,7 +40,7 @@ Description: Demonstrates summarize by region as a thematic map.
   * Analytics:
     * bfro_reports_geom_summarize: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/58cc651e8a00ffbab18e82a3ab443406
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/thematic.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/thematic_rank.png" width="300" height="200">
 
 ### Thematic_Map_of_Bigfoot_Sightings
 Description: Demonstrates how to build a thematic map.
@@ -54,6 +54,8 @@ Description: Demonstrates how to build a thematic map.
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
   * Analytics:
     * bfro_reports_geocoded_summarize_count: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/585e885d428b94f1a6f3e9fd41920d33
+
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/thematic.png" width="300" height="200">
 
 ### Clustering_Bigfoot_Reports
 Description: Demonstrates how to cluster data using Spatial Studio.
