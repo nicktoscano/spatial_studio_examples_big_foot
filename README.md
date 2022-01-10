@@ -16,6 +16,8 @@ Description: Demonstrates Return Shapes that Are Inside Another
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/inside_national.png" width="300" height="200">
 
+<hr style="width:100%", size="6", color=white> 
+
 ### Bigfoot_Reports_by_Classification
   * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=0408448a99a3c90f5a5ba487eb1bd6f0
   * Data: 
