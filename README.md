@@ -14,6 +14,8 @@ Description: Demonstrates Return Shapes that Are Inside Another
   * Analytics:
     * reports_inside_national_forests: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/09d30f10b7ac25907689be7a7f431c25
 
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/inside_national.png" width="300" height="200">
+
 ### Bigfoot_Reports_by_Classification
   * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=12297d5494ab529e8e801de9bf2e7d44
   * Data: 
@@ -23,6 +25,8 @@ Description: Demonstrates Return Shapes that Are Inside Another
   * Analytics:
     * bfro_reports_geocoded_class_b: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/de1ac4681626d1fcd231325a1176b239
     * bfro_reports_geocoded_filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
+
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/clasification.png" width="300" height="200">
 
 ### Which_State_Has_More_Bigfoot_Sightings
 Description: Demonstrates summarize by region as a thematic map.
@@ -68,4 +72,5 @@ Description: Demonstrates how to cluster data using Spatial Studio.
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
   * Analytics:
     * bfro_reports_geocoded filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
+
 
