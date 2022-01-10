@@ -58,6 +58,8 @@ Description: Demonstrates how to cluster data using Spatial Studio.
      * Source: https://www.bfro.net/gdb/
      * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
 
+![Alt text](clustering_img.pnb "Clustering")
+
 ### Bigfoot_Reports_by_Classification
   * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=0408448a99a3c90f5a5ba487eb1bd6f0
   * Data: 
