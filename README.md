@@ -17,7 +17,7 @@ Description: Demonstrates Return Shapes that Are Inside Another
      * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/a9030ad05b8c9f62dc744187b9ea8b26
     * National Forests
      * source: https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=boundaries
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/3ea245c3d32db3950f7745b039052aa1
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/3ea245c3d32db3950f7745b039052aa1
   * Analytics:
     * reports_inside_national_forests: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/09d30f10b7ac25907689be7a7f431c25
 
@@ -30,7 +30,7 @@ Description: Demonstrates Return Shapes that Are Inside Another
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
   * Analytics:
     * bfro_reports_geocoded filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
 
@@ -44,10 +44,10 @@ Description: Demonstrates summarize by region as a thematic map.
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
     * CB_2018_US_STATE_500K 
      * Source: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
   * Analytics:
     * bfro_reports_geom_summarize: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/58cc651e8a00ffbab18e82a3ab443406
 
@@ -61,10 +61,10 @@ Description: Demonstrates how to build a thematic map.
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
     * CB_2018_US_STATE_500K 
      * Source: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
   * Analytics:
     * bfro_reports_geocoded_summarize_count: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/585e885d428b94f1a6f3e9fd41920d33
 
@@ -78,7 +78,7 @@ Description: Demonstrates how to cluster data using Spatial Studio.
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/clustering_img.png" width="300" height="200">
 
@@ -90,9 +90,9 @@ Description: Demonstrates proximity analysis.
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
     * US UFO Encounters 
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/proximity.png" width="300" height="200">
 
@@ -104,10 +104,10 @@ Description: None
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
     * NPS_LAND_RESOURCES 
      * Source: https://public-nps.opendata.arcgis.com/maps/nps::nps-land-resources-division-boundary-and-tract-data-service/about
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/656754d36b2a7f4ff31af0abc103cb7b
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/656754d36b2a7f4ff31af0abc103cb7b
    * Analytics:
     * Nnps_land_resources_filteredD: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/656754d36b2a7f4ff31af0abc103cb7b
 
@@ -121,7 +121,7 @@ Description: None
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
  
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/density.png" width="300" height="200">
 
@@ -133,7 +133,21 @@ Description: None
   * Data: 
     * BFRO Reports 
      * Source: https://www.bfro.net/gdb/
-     * GeoJson: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
  
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/timeslider.png" width="300" height="200">
+
+### Themtic_Map_of_UFO_Sightings
+Description: None
+  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=eb48812c50eea2e39ebb95fe76b6b656
+  * Data: 
+    * CB_2018_US_STATE_500K 
+     * Source: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
+    * US_UFO_ENCOUNTERS_SUMMARIZE
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/9f970b43503bd4d4bda8f9918efd71ea
+    * US_UFO_ENCOUNTERS
+     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
+ 
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/ufo_thematic.png" width="300" height="200">
 
