@@ -5,7 +5,7 @@
 
 See graphic:
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/import_screen.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/import_screen.png" width="300" height="200">
 
 ## Projects
 ### Big_Foot_Locations_Inside_National_Forests 
