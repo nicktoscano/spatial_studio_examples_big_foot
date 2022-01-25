@@ -21,7 +21,7 @@ Description: Demonstrates Return Shapes that Are Inside Another
   * Analytics:
     * reports_inside_national_forests: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/09d30f10b7ac25907689be7a7f431c25
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/inside_national.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/inside_national.png" width="300" height="200">
 
 <hr style="width:100%", size="6", color=white> 
 
