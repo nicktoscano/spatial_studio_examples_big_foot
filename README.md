@@ -34,7 +34,7 @@ Description: Demonstrates Return Shapes that Are Inside Another
   * Analytics:
     * bfro_reports_geocoded filtered: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/6472170d35b65d6ccfad58eae1877c54
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/classification.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/classification.png" width="300" height="200">
 
 <hr style="width:100%", size="6", color=white> 
 
@@ -51,7 +51,7 @@ Description: Demonstrates summarize by region as a thematic map.
   * Analytics:
     * bfro_reports_geom_summarize: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/58cc651e8a00ffbab18e82a3ab443406
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/thematic_rank.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/thematic_rank.png" width="300" height="200">
 
 <hr style="width:100%", size="6", color=white> 
 
@@ -68,7 +68,7 @@ Description: Demonstrates how to build a thematic map.
   * Analytics:
     * bfro_reports_geocoded_summarize_count: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/585e885d428b94f1a6f3e9fd41920d33
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/thematic.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/thematic.png" width="300" height="200">
 
 <hr style="width:100%", size="6", color=white> 
 
@@ -80,7 +80,7 @@ Description: Demonstrates how to cluster data using Spatial Studio.
      * Source: https://www.bfro.net/gdb/
      * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/clustering_img.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/clustering_img.png" width="300" height="200">
 
 <hr style="width:100%", size="6", color=white> 
 
@@ -94,7 +94,7 @@ Description: Demonstrates proximity analysis.
     * US UFO Encounters 
      * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/proximity.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/proximity.png" width="300" height="200">
 
 <hr style="width:100%", size="6", color=white> 
 
@@ -111,7 +111,7 @@ Description: None
    * Analytics:
     * Nnps_land_resources_filteredD: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/656754d36b2a7f4ff31af0abc103cb7b
 
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/cuyahoga.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/cuyahoga.png" width="300" height="200">
 
 <hr style="width:100%", size="6", color=white> 
 
@@ -123,7 +123,7 @@ Description: None
      * Source: https://www.bfro.net/gdb/
      * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
  
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/density.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/density.png" width="300" height="200">
 
 <hr style="width:100%", size="6", color=white> 
 
@@ -135,7 +135,7 @@ Description: None
      * Source: https://www.bfro.net/gdb/
      * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
  
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/timeslider.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/timeslider.png" width="300" height="200">
 
 ### Themtic_Map_of_UFO_Sightings
 Description: None
@@ -149,5 +149,5 @@ Description: None
     * US_UFO_ENCOUNTERS
      * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
  
-<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/ufo_thematic.png" width="300" height="200">
+<img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/ufo_thematic.png" width="300" height="200">
 
