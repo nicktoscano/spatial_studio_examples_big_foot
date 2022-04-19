@@ -41,7 +41,7 @@ Description: Demonstrates summarize by region as a thematic map.
 
 ### Thematic_Map_of_Bigfoot_Sightings
 Description: Demonstrates how to build a thematic map.
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=cb5bf4a9951dbda6e2dd6140e0b88066
+  * Published Project: https://129.153.33.123:4040/spatialstudio/published.html?proj_id=a0ed137bcf93e9817a2673201334243c
   * Data: 
     * BFRO Reports 
     * CB_2018_US_STATE_500K 
