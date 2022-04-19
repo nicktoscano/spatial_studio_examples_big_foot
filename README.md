@@ -62,13 +62,10 @@ Description: Demonstrates how to cluster data using Spatial Studio.
 
 ### Bigfoot_Reporting_within_Proximity_to_UFO_Sightings
 Description: Demonstrates proximity analysis.
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=2cf12e225b4cf38a36fae7f32884f265
+  * Published Project: 
   * Data: 
     * BFRO Reports 
-     * Source: https://www.bfro.net/gdb/
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
     * US UFO Encounters 
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/proximity.png" width="300" height="200">
 
@@ -76,16 +73,10 @@ Description: Demonstrates proximity analysis.
 
 ### Cuyahoga_Valley_Bigfoot
 Description: None
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=d89a83ab7bee2a13f7e7381653962f46
+  * Published Project: 
   * Data: 
     * BFRO Reports 
-     * Source: https://www.bfro.net/gdb/
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
     * NPS_LAND_RESOURCES 
-     * Source: https://public-nps.opendata.arcgis.com/maps/nps::nps-land-resources-division-boundary-and-tract-data-service/about
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/656754d36b2a7f4ff31af0abc103cb7b
-   * Analytics:
-    * Nnps_land_resources_filteredD: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/656754d36b2a7f4ff31af0abc103cb7b
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/cuyahoga.png" width="300" height="200">
 
@@ -93,11 +84,9 @@ Description: None
 
 ### Where are the greatest density of sightings?
 Description: None
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=71fe5266b136f0cfc640a8ab63ccf0e3
+  * Published Project: 
   * Data: 
     * BFRO Reports 
-     * Source: https://www.bfro.net/gdb/
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
  
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/density.png" width="300" height="200">
 
@@ -105,25 +94,19 @@ Description: None
 
 ### Report Time Sldier
 Description: None
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=9bb5882ac6ae45790fcddba83517d090
+  * Published Project: 
   * Data: 
     * BFRO Reports 
-     * Source: https://www.bfro.net/gdb/
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
  
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/timeslider.png" width="300" height="200">
 
 ### Themtic_Map_of_UFO_Sightings
 Description: None
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=eb48812c50eea2e39ebb95fe76b6b656
+  * Published Project: 
   * Data: 
     * CB_2018_US_STATE_500K 
-     * Source: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/098f81a762996528ef71bbc3ea86ee6d
     * US_UFO_ENCOUNTERS_SUMMARIZE
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/9f970b43503bd4d4bda8f9918efd71ea
     * US_UFO_ENCOUNTERS
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/8ed5c7d827887fc14dddda6dcf18dc5a
  
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/ufo_thematic.png" width="300" height="200">
 
