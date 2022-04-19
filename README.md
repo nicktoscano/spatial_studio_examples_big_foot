@@ -52,11 +52,9 @@ Description: Demonstrates how to build a thematic map.
 
 ### Clustering_Bigfoot_Reports
 Description: Demonstrates how to cluster data using Spatial Studio.
-  * Published Project: https://150.136.59.227:4040/spatialstudio/published.html?proj_id=a0bac43b7be3b1589ab85ed14649a8bc
+  * Published Project: https://129.153.33.123:4040/spatialstudio/published.html?proj_id=2f7b545da4284bb29fef512bae7f4754
   * Data: 
     * BFRO Reports 
-     * Source: https://www.bfro.net/gdb/
-     * GeoJSON: https://150.136.59.227:4040/spatialstudio/api/v1/jsonstream/107a34b82ba9403a77cff3c8e3b6a0f5
 
 <img src="https://github.com/nicktoscano/spatial_studio_examples_big_foot/blob/main/assets/clustering_img.png" width="300" height="200">
 
