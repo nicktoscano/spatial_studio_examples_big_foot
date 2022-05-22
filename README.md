@@ -1,4 +1,4 @@
-# spatial_studio_examples_big_foot
+# Spatial Studio Examples Using Big Foot Reporting
 
 * To utilize this repo, you will need access to Oracle Spatial Studio.  https://www.oracle.com/database/spatial/
 * You can then import the project zipfile via the Import Project button on the Project managment page.
